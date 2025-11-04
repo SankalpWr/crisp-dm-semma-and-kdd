@@ -6,4 +6,4 @@ kdd - https://colab.research.google.com/drive/1TWHKW2cavZAzDnlkrg5oi-jGMSkl9PN9?
 
 Semma Final - https://colab.research.google.com/drive/1ydnd0w4Y4SZhD0z9lXMA1KRRpP0afSwF?usp=sharing
 
-Video tutorial - https://loom.com/share/folder/19b966c35d2d4c17b2ac8805a0c2164d
+Video tutorials - https://loom.com/share/folder/19b966c35d2d4c17b2ac8805a0c2164d
